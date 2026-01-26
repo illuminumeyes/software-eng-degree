@@ -1,3 +1,7 @@
 [submodule "IntroWebDev"]
         path = Y2/intro-webdev
         url = git@github.com:illuminumeyes/mmu-webdev.git
+
+[submodule "AdvProg"]
+        path = Y2/adv-prog
+        url = git@github.com:illuminumeyes/mmu-adv-prog.git
