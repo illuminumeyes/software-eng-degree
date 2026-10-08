@@ -5,3 +5,7 @@
 [submodule "AdvProg"]
         path = Y2/adv-prog
         url = git@github.com:illuminumeyes/mmu-adv-prog.git
+
+[submodule "FullStack"]
+        path = Y3/FullStack
+        url = git@github.com:illuminumeyes/mmu-full-stack.git
