@@ -8,4 +8,8 @@
 
 [submodule "FullStack"]
         path = Y3/FullStack
-        url = git@github.com:illuminumeyes/mmu-full-stack.git
+        url = git@github.com:FullStack-2627-UG/full-stack-web-development-dts-errbnb-illuminumeyes.git
+
+[submodule "SoftwareDesignArchitecture"]
+        path = Y3/mmu-soft-design
+        url = git@github.com:illuminumeyes/mmu-soft-design.git
